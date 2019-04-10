@@ -1,0 +1,262 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\#Unity\RotateObjectAndroid\Android Project v2\AndroidWithUnity\src\main\AndroidManifest.xml:2:1-84:12
+INJECTED from E:\#Unity\RotateObjectAndroid\Android Project v2\AndroidWithUnity\src\main\AndroidManifest.xml:2:1-84:12
+INJECTED from E:\#Unity\RotateObjectAndroid\Android Project v2\AndroidWithUnity\src\main\AndroidManifest.xml:2:1-84:12
+INJECTED from E:\#Unity\RotateObjectAndroid\Android Project v2\AndroidWithUnity\src\main\AndroidManifest.xml:2:1-84:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Klemen\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\16cd741d1396001500e753cc0dc4b1f0\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Klemen\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\453aefa0960666328c1673c70166c216\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Klemen\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\fb98b6f006f6a8a886298101fb210c6f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Klemen\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\05d74494e4d3787f057ac6732f0c255a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Klemen\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\3a095708a93648e7d392b388d1a25448\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Klemen\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\52a46ef42e7a6be091cc858e5b39b907\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Klemen\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\0919a3e9d45ccefa0adc3b9ffea2081a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Klemen\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\7c84617b4be7ff77b3b29972decbc9ce\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Klemen\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\ca968b630fbfe8cbc4c9a1ecf180ae3b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Klemen\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\f7117aba436dca7ec59dcae262dd5ae5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Klemen\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\8be2d356e3fb2461ec898d094617d9ae\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Klemen\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\499544db58a47ca5dae42ccd29bab93d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Klemen\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\ae8835bbab201f3d809380e52c99510a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Klemen\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\1d72b0ccf6641443aa53d4c4d111870c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Klemen\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\e1711fe7e8a91d3f83591fd5d9ad732d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Klemen\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\ebf40cd97ab6413ffe428ebd076f4c30\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Klemen\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\492a1d2dc8ef679758f728f07fb18de6\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Klemen\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\29d37a6a18cc13ca455b727f5557e50b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Klemen\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\49d471da2bc540319b8ef1aeb68c2ad8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Klemen\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\045354e39e478aa923f7fd22a4e19987\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Klemen\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\a153340cf91be8d11355469c3bd25439\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Klemen\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\fb72fbad5d69012c5af5dc935ce59737\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Klemen\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\4478681481af0cdc8d99ced7c17c92cb\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Klemen\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\becbe244cbe97e67f823f55c66fb83fa\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Klemen\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\c056d1ad242639cdd2283112364647df\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Klemen\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\0fd6ca24368600cfdc839706cdb74a4b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Klemen\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\dab7e4ea7fbc01fe8086fd5ea2f6f7a3\AndroidManifest.xml:17:1-22:12
+INJECTED from E:\#Unity\RotateObjectAndroid\Android Project v2\AndroidWithUnity\src\main\AndroidManifest.xml:2:1-84:12
+INJECTED from E:\#Unity\RotateObjectAndroid\Android Project v2\AndroidWithUnity\src\main\AndroidManifest.xml:2:1-84:12
+INJECTED from E:\#Unity\RotateObjectAndroid\Android Project v2\AndroidWithUnity\src\main\AndroidManifest.xml:2:1-84:12
+	package
+		ADDED from E:\#Unity\RotateObjectAndroid\Android Project v2\AndroidWithUnity\src\main\AndroidManifest.xml:4:5-40
+		INJECTED from E:\#Unity\RotateObjectAndroid\Android Project v2\AndroidWithUnity\src\main\AndroidManifest.xml
+		INJECTED from E:\#Unity\RotateObjectAndroid\Android Project v2\AndroidWithUnity\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\#Unity\RotateObjectAndroid\Android Project v2\AndroidWithUnity\src\main\AndroidManifest.xml
+		ADDED from E:\#Unity\RotateObjectAndroid\Android Project v2\AndroidWithUnity\src\main\AndroidManifest.xml:2:1-84:12
+		INJECTED from E:\#Unity\RotateObjectAndroid\Android Project v2\AndroidWithUnity\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from E:\#Unity\RotateObjectAndroid\Android Project v2\AndroidWithUnity\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from E:\#Unity\RotateObjectAndroid\Android Project v2\AndroidWithUnity\src\main\AndroidManifest.xml
+		ADDED from E:\#Unity\RotateObjectAndroid\Android Project v2\AndroidWithUnity\src\main\AndroidManifest.xml:2:1-84:12
+		INJECTED from E:\#Unity\RotateObjectAndroid\Android Project v2\AndroidWithUnity\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\#Unity\RotateObjectAndroid\Android Project v2\AndroidWithUnity\src\main\AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from E:\#Unity\RotateObjectAndroid\Android Project v2\AndroidWithUnity\src\main\AndroidManifest.xml:5:5-45
+supports-screens
+ADDED from E:\#Unity\RotateObjectAndroid\Android Project v2\AndroidWithUnity\src\main\AndroidManifest.xml:7:5-12:40
+	android:largeScreens
+		ADDED from E:\#Unity\RotateObjectAndroid\Android Project v2\AndroidWithUnity\src\main\AndroidManifest.xml:9:9-36
+	android:smallScreens
+		ADDED from E:\#Unity\RotateObjectAndroid\Android Project v2\AndroidWithUnity\src\main\AndroidManifest.xml:11:9-36
+	android:normalScreens
+		ADDED from E:\#Unity\RotateObjectAndroid\Android Project v2\AndroidWithUnity\src\main\AndroidManifest.xml:10:9-37
+	android:xlargeScreens
+		ADDED from E:\#Unity\RotateObjectAndroid\Android Project v2\AndroidWithUnity\src\main\AndroidManifest.xml:12:9-37
+	android:anyDensity
+		ADDED from E:\#Unity\RotateObjectAndroid\Android Project v2\AndroidWithUnity\src\main\AndroidManifest.xml:8:9-34
+uses-feature#0x00020000
+ADDED from E:\#Unity\RotateObjectAndroid\Android Project v2\AndroidWithUnity\src\main\AndroidManifest.xml:14:5-54
+	android:glEsVersion
+		ADDED from E:\#Unity\RotateObjectAndroid\Android Project v2\AndroidWithUnity\src\main\AndroidManifest.xml:14:19-51
+uses-permission#android.permission.INTERNET
+ADDED from E:\#Unity\RotateObjectAndroid\Android Project v2\AndroidWithUnity\src\main\AndroidManifest.xml:16:5-67
+	android:name
+		ADDED from E:\#Unity\RotateObjectAndroid\Android Project v2\AndroidWithUnity\src\main\AndroidManifest.xml:16:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\#Unity\RotateObjectAndroid\Android Project v2\AndroidWithUnity\src\main\AndroidManifest.xml:17:5-19:38
+	android:maxSdkVersion
+		ADDED from E:\#Unity\RotateObjectAndroid\Android Project v2\AndroidWithUnity\src\main\AndroidManifest.xml:19:9-35
+	android:name
+		ADDED from E:\#Unity\RotateObjectAndroid\Android Project v2\AndroidWithUnity\src\main\AndroidManifest.xml:18:9-65
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from E:\#Unity\RotateObjectAndroid\Android Project v2\AndroidWithUnity\src\main\AndroidManifest.xml:20:5-22:38
+	android:maxSdkVersion
+		ADDED from E:\#Unity\RotateObjectAndroid\Android Project v2\AndroidWithUnity\src\main\AndroidManifest.xml:22:9-35
+	android:name
+		ADDED from E:\#Unity\RotateObjectAndroid\Android Project v2\AndroidWithUnity\src\main\AndroidManifest.xml:21:9-64
+uses-feature#android.hardware.touchscreen
+ADDED from E:\#Unity\RotateObjectAndroid\Android Project v2\AndroidWithUnity\src\main\AndroidManifest.xml:24:5-26:36
+	android:required
+		ADDED from E:\#Unity\RotateObjectAndroid\Android Project v2\AndroidWithUnity\src\main\AndroidManifest.xml:26:9-33
+	android:name
+		ADDED from E:\#Unity\RotateObjectAndroid\Android Project v2\AndroidWithUnity\src\main\AndroidManifest.xml:25:9-52
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from E:\#Unity\RotateObjectAndroid\Android Project v2\AndroidWithUnity\src\main\AndroidManifest.xml:27:5-29:36
+	android:required
+		ADDED from E:\#Unity\RotateObjectAndroid\Android Project v2\AndroidWithUnity\src\main\AndroidManifest.xml:29:9-33
+	android:name
+		ADDED from E:\#Unity\RotateObjectAndroid\Android Project v2\AndroidWithUnity\src\main\AndroidManifest.xml:28:9-63
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from E:\#Unity\RotateObjectAndroid\Android Project v2\AndroidWithUnity\src\main\AndroidManifest.xml:30:5-32:36
+	android:required
+		ADDED from E:\#Unity\RotateObjectAndroid\Android Project v2\AndroidWithUnity\src\main\AndroidManifest.xml:32:9-33
+	android:name
+		ADDED from E:\#Unity\RotateObjectAndroid\Android Project v2\AndroidWithUnity\src\main\AndroidManifest.xml:31:9-72
+application
+ADDED from E:\#Unity\RotateObjectAndroid\Android Project v2\AndroidWithUnity\src\main\AndroidManifest.xml:34:5-81:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Klemen\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\16cd741d1396001500e753cc0dc4b1f0\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Klemen\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\16cd741d1396001500e753cc0dc4b1f0\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Klemen\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\ebf40cd97ab6413ffe428ebd076f4c30\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Klemen\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\ebf40cd97ab6413ffe428ebd076f4c30\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Klemen\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\492a1d2dc8ef679758f728f07fb18de6\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Klemen\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\492a1d2dc8ef679758f728f07fb18de6\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Klemen\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\ebf40cd97ab6413ffe428ebd076f4c30\AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from E:\#Unity\RotateObjectAndroid\Android Project v2\AndroidWithUnity\src\main\AndroidManifest.xml:37:9-41
+	android:icon
+		ADDED from E:\#Unity\RotateObjectAndroid\Android Project v2\AndroidWithUnity\src\main\AndroidManifest.xml:35:9-40
+	android:theme
+		ADDED from E:\#Unity\RotateObjectAndroid\Android Project v2\AndroidWithUnity\src\main\AndroidManifest.xml:38:9-56
+	android:isGame
+		ADDED from E:\#Unity\RotateObjectAndroid\Android Project v2\AndroidWithUnity\src\main\AndroidManifest.xml:36:9-30
+activity#com.LTFE.AndroidWithUnity.MainActivity
+ADDED from E:\#Unity\RotateObjectAndroid\Android Project v2\AndroidWithUnity\src\main\AndroidManifest.xml:39:9-47:20
+	android:name
+		ADDED from E:\#Unity\RotateObjectAndroid\Android Project v2\AndroidWithUnity\src\main\AndroidManifest.xml:40:13-66
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\#Unity\RotateObjectAndroid\Android Project v2\AndroidWithUnity\src\main\AndroidManifest.xml:42:13-45:29
+action#android.intent.action.MAIN
+ADDED from E:\#Unity\RotateObjectAndroid\Android Project v2\AndroidWithUnity\src\main\AndroidManifest.xml:43:17-69
+	android:name
+		ADDED from E:\#Unity\RotateObjectAndroid\Android Project v2\AndroidWithUnity\src\main\AndroidManifest.xml:43:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\#Unity\RotateObjectAndroid\Android Project v2\AndroidWithUnity\src\main\AndroidManifest.xml:44:17-77
+	android:name
+		ADDED from E:\#Unity\RotateObjectAndroid\Android Project v2\AndroidWithUnity\src\main\AndroidManifest.xml:44:27-74
+activity#com.LTFE.AndroidWithUnity.UnityPlayerActivity
+ADDED from E:\#Unity\RotateObjectAndroid\Android Project v2\AndroidWithUnity\src\main\AndroidManifest.xml:48:9-70:20
+	android:screenOrientation
+		ADDED from E:\#Unity\RotateObjectAndroid\Android Project v2\AndroidWithUnity\src\main\AndroidManifest.xml:55:13-49
+	android:process
+		ADDED from E:\#Unity\RotateObjectAndroid\Android Project v2\AndroidWithUnity\src\main\AndroidManifest.xml:54:13-43
+	android:parentActivityName
+		ADDED from E:\#Unity\RotateObjectAndroid\Android Project v2\AndroidWithUnity\src\main\AndroidManifest.xml:56:13-80
+	android:label
+		ADDED from E:\#Unity\RotateObjectAndroid\Android Project v2\AndroidWithUnity\src\main\AndroidManifest.xml:52:13-45
+	android:launchMode
+		ADDED from E:\#Unity\RotateObjectAndroid\Android Project v2\AndroidWithUnity\src\main\AndroidManifest.xml:53:13-43
+	android:hardwareAccelerated
+		ADDED from E:\#Unity\RotateObjectAndroid\Android Project v2\AndroidWithUnity\src\main\AndroidManifest.xml:51:13-48
+	android:configChanges
+		ADDED from E:\#Unity\RotateObjectAndroid\Android Project v2\AndroidWithUnity\src\main\AndroidManifest.xml:50:13-194
+	android:name
+		ADDED from E:\#Unity\RotateObjectAndroid\Android Project v2\AndroidWithUnity\src\main\AndroidManifest.xml:49:13-73
+meta-data#unityplayer.UnityActivity
+ADDED from E:\#Unity\RotateObjectAndroid\Android Project v2\AndroidWithUnity\src\main\AndroidManifest.xml:58:13-60:40
+	android:value
+		ADDED from E:\#Unity\RotateObjectAndroid\Android Project v2\AndroidWithUnity\src\main\AndroidManifest.xml:60:17-37
+	android:name
+		ADDED from E:\#Unity\RotateObjectAndroid\Android Project v2\AndroidWithUnity\src\main\AndroidManifest.xml:59:17-57
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from E:\#Unity\RotateObjectAndroid\Android Project v2\AndroidWithUnity\src\main\AndroidManifest.xml:61:13-63:74
+	android:value
+		ADDED from E:\#Unity\RotateObjectAndroid\Android Project v2\AndroidWithUnity\src\main\AndroidManifest.xml:63:17-71
+	android:name
+		ADDED from E:\#Unity\RotateObjectAndroid\Android Project v2\AndroidWithUnity\src\main\AndroidManifest.xml:62:17-63
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.DEFAULT
+ADDED from E:\#Unity\RotateObjectAndroid\Android Project v2\AndroidWithUnity\src\main\AndroidManifest.xml:64:13-69:29
+action#android.intent.action.VIEW
+ADDED from E:\#Unity\RotateObjectAndroid\Android Project v2\AndroidWithUnity\src\main\AndroidManifest.xml:66:17-69
+	android:name
+		ADDED from E:\#Unity\RotateObjectAndroid\Android Project v2\AndroidWithUnity\src\main\AndroidManifest.xml:66:25-66
+category#android.intent.category.DEFAULT
+ADDED from E:\#Unity\RotateObjectAndroid\Android Project v2\AndroidWithUnity\src\main\AndroidManifest.xml:68:17-76
+	android:name
+		ADDED from E:\#Unity\RotateObjectAndroid\Android Project v2\AndroidWithUnity\src\main\AndroidManifest.xml:68:27-73
+meta-data#unity.build-id
+ADDED from E:\#Unity\RotateObjectAndroid\Android Project v2\AndroidWithUnity\src\main\AndroidManifest.xml:72:9-74:68
+	android:value
+		ADDED from E:\#Unity\RotateObjectAndroid\Android Project v2\AndroidWithUnity\src\main\AndroidManifest.xml:74:13-65
+	android:name
+		ADDED from E:\#Unity\RotateObjectAndroid\Android Project v2\AndroidWithUnity\src\main\AndroidManifest.xml:73:13-42
+meta-data#unity.splash-mode
+ADDED from E:\#Unity\RotateObjectAndroid\Android Project v2\AndroidWithUnity\src\main\AndroidManifest.xml:75:9-77:33
+	android:value
+		ADDED from E:\#Unity\RotateObjectAndroid\Android Project v2\AndroidWithUnity\src\main\AndroidManifest.xml:77:13-30
+	android:name
+		ADDED from E:\#Unity\RotateObjectAndroid\Android Project v2\AndroidWithUnity\src\main\AndroidManifest.xml:76:13-45
+meta-data#unity.splash-enable
+ADDED from E:\#Unity\RotateObjectAndroid\Android Project v2\AndroidWithUnity\src\main\AndroidManifest.xml:78:9-80:36
+	android:value
+		ADDED from E:\#Unity\RotateObjectAndroid\Android Project v2\AndroidWithUnity\src\main\AndroidManifest.xml:80:13-33
+	android:name
+		ADDED from E:\#Unity\RotateObjectAndroid\Android Project v2\AndroidWithUnity\src\main\AndroidManifest.xml:79:13-47
+uses-sdk
+INJECTED from E:\#Unity\RotateObjectAndroid\Android Project v2\AndroidWithUnity\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\#Unity\RotateObjectAndroid\Android Project v2\AndroidWithUnity\src\main\AndroidManifest.xml
+INJECTED from E:\#Unity\RotateObjectAndroid\Android Project v2\AndroidWithUnity\src\main\AndroidManifest.xml
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Klemen\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\16cd741d1396001500e753cc0dc4b1f0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Klemen\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\16cd741d1396001500e753cc0dc4b1f0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Klemen\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\453aefa0960666328c1673c70166c216\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Klemen\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\453aefa0960666328c1673c70166c216\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Klemen\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\fb98b6f006f6a8a886298101fb210c6f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Klemen\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\fb98b6f006f6a8a886298101fb210c6f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Klemen\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\05d74494e4d3787f057ac6732f0c255a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Klemen\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\05d74494e4d3787f057ac6732f0c255a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Klemen\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\3a095708a93648e7d392b388d1a25448\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Klemen\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\3a095708a93648e7d392b388d1a25448\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Klemen\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\52a46ef42e7a6be091cc858e5b39b907\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Klemen\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\52a46ef42e7a6be091cc858e5b39b907\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Klemen\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\0919a3e9d45ccefa0adc3b9ffea2081a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Klemen\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\0919a3e9d45ccefa0adc3b9ffea2081a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Klemen\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\7c84617b4be7ff77b3b29972decbc9ce\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Klemen\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\7c84617b4be7ff77b3b29972decbc9ce\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Klemen\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\ca968b630fbfe8cbc4c9a1ecf180ae3b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Klemen\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\ca968b630fbfe8cbc4c9a1ecf180ae3b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Klemen\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\f7117aba436dca7ec59dcae262dd5ae5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Klemen\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\f7117aba436dca7ec59dcae262dd5ae5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Klemen\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\8be2d356e3fb2461ec898d094617d9ae\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Klemen\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\8be2d356e3fb2461ec898d094617d9ae\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Klemen\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\499544db58a47ca5dae42ccd29bab93d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Klemen\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\499544db58a47ca5dae42ccd29bab93d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Klemen\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\ae8835bbab201f3d809380e52c99510a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Klemen\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\ae8835bbab201f3d809380e52c99510a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Klemen\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\1d72b0ccf6641443aa53d4c4d111870c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Klemen\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\1d72b0ccf6641443aa53d4c4d111870c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Klemen\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\e1711fe7e8a91d3f83591fd5d9ad732d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Klemen\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\e1711fe7e8a91d3f83591fd5d9ad732d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Klemen\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\ebf40cd97ab6413ffe428ebd076f4c30\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Klemen\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\ebf40cd97ab6413ffe428ebd076f4c30\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Klemen\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\492a1d2dc8ef679758f728f07fb18de6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Klemen\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\492a1d2dc8ef679758f728f07fb18de6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Klemen\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\29d37a6a18cc13ca455b727f5557e50b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Klemen\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\29d37a6a18cc13ca455b727f5557e50b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Klemen\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\49d471da2bc540319b8ef1aeb68c2ad8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Klemen\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\49d471da2bc540319b8ef1aeb68c2ad8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Klemen\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\045354e39e478aa923f7fd22a4e19987\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Klemen\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\045354e39e478aa923f7fd22a4e19987\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Klemen\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\a153340cf91be8d11355469c3bd25439\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Klemen\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\a153340cf91be8d11355469c3bd25439\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Klemen\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\fb72fbad5d69012c5af5dc935ce59737\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Klemen\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\fb72fbad5d69012c5af5dc935ce59737\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Klemen\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\4478681481af0cdc8d99ced7c17c92cb\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Klemen\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\4478681481af0cdc8d99ced7c17c92cb\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Klemen\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\becbe244cbe97e67f823f55c66fb83fa\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Klemen\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\becbe244cbe97e67f823f55c66fb83fa\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Klemen\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\c056d1ad242639cdd2283112364647df\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Klemen\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\c056d1ad242639cdd2283112364647df\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Klemen\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\0fd6ca24368600cfdc839706cdb74a4b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Klemen\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\0fd6ca24368600cfdc839706cdb74a4b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Klemen\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\dab7e4ea7fbc01fe8086fd5ea2f6f7a3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Klemen\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\dab7e4ea7fbc01fe8086fd5ea2f6f7a3\AndroidManifest.xml:20:5-44
+INJECTED from E:\#Unity\RotateObjectAndroid\Android Project v2\AndroidWithUnity\src\main\AndroidManifest.xml
+INJECTED from E:\#Unity\RotateObjectAndroid\Android Project v2\AndroidWithUnity\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\#Unity\RotateObjectAndroid\Android Project v2\AndroidWithUnity\src\main\AndroidManifest.xml
+		ADDED from E:\#Unity\RotateObjectAndroid\Android Project v2\AndroidWithUnity\src\main\AndroidManifest.xml
+		INJECTED from E:\#Unity\RotateObjectAndroid\Android Project v2\AndroidWithUnity\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\#Unity\RotateObjectAndroid\Android Project v2\AndroidWithUnity\src\main\AndroidManifest.xml
+		ADDED from E:\#Unity\RotateObjectAndroid\Android Project v2\AndroidWithUnity\src\main\AndroidManifest.xml
+		INJECTED from E:\#Unity\RotateObjectAndroid\Android Project v2\AndroidWithUnity\src\main\AndroidManifest.xml
