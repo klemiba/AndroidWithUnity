@@ -8,6 +8,7 @@ import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
 import android.view.KeyEvent;
+import android.view.MenuItem;
 import android.view.MotionEvent;
 import android.view.View;
 import android.view.Window;
@@ -24,10 +25,8 @@ public class UnityPlayerActivity extends AppCompatActivity
 
     @Override
     public void onBackPressed() {
-        //onPause();
         Intent i = new Intent(getBaseContext(), MainActivity.class);
         startActivity(i);
-        //super.onBackPressed();
     }
 
     // Setup activity layout
@@ -36,7 +35,7 @@ public class UnityPlayerActivity extends AppCompatActivity
         requestWindowFeature(Window.FEATURE_NO_TITLE);
         super.onCreate(savedInstanceState);
 
-        mUnityPlayer = new UnityPlayer((ContextWrapper) getApplicationContext());
+        mUnityPlayer = new UnityPlayerWrapper((ContextWrapper) getApplicationContext());
         setContentView(R.layout.unity_activity_layout);
         FrameLayout frameLayout = (FrameLayout)findViewById(R.id.unity_activity_player);
         frameLayout.addView(mUnityPlayer.getView());
@@ -67,7 +66,6 @@ public class UnityPlayerActivity extends AppCompatActivity
         sphere.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-
                 UnityPlayer.UnitySendMessage("Main Camera", "switchObject", "sphere");
             }
         });
@@ -96,8 +94,8 @@ public class UnityPlayerActivity extends AppCompatActivity
     {
         Log.d(TAG, "onDestroy: Hello");
         //mUnityPlayer.quit();
-        mUnityPlayer.stop();
-        mUnityPlayer.quit();
+        mUnityPlayer.pause();
+        //mUnityPlayer.quit();
         super.onDestroy();
     }
 
@@ -175,11 +173,30 @@ public class UnityPlayerActivity extends AppCompatActivity
         return super.dispatchKeyEvent(event);
     }
 
-    
+    @Override
+    public boolean onOptionsItemSelected(MenuItem item) {
+        if (item.getItemId() == android.R.id.home) {
+            onBackPressed();
+            return true;
+        }
+        return super.onOptionsItemSelected(item);
+    }
 
     // Pass any events not handled by (unfocused) views straight to UnityPlayer
-    @Override public boolean onKeyUp(int keyCode, KeyEvent event)     { return mUnityPlayer.injectEvent(event); }
-    @Override public boolean onKeyDown(int keyCode, KeyEvent event)   { return mUnityPlayer.injectEvent(event); }
-    @Override public boolean onTouchEvent(MotionEvent event)          { return mUnityPlayer.injectEvent(event); }
+    @Override public boolean onKeyUp(int keyCode, KeyEvent event)     {
+        Log.d(TAG, "Code: "+keyCode);
+        if (KeyEvent.KEYCODE_BACK == keyCode) {
+            Intent i = new Intent(getBaseContext(), MainActivity.class);
+            startActivity(i);
+            return true; //handled
+        }
+        return mUnityPlayer.injectEvent(event);
+    }
+    @Override public boolean onKeyDown(int keyCode, KeyEvent event)   {
+        return mUnityPlayer.injectEvent(event); 
+    }
+    @Override public boolean onTouchEvent(MotionEvent event){
+        return mUnityPlayer.injectEvent(event); }
     /*API12*/ public boolean onGenericMotionEvent(MotionEvent event)  { return mUnityPlayer.injectEvent(event); }
+
 }

@@ -1,27 +1,8 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\#Unity\\RotateObjectAndroid\\Android Project v2\\AndroidWithUnity\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v21\\values-v21.xml",
+            "outputFile": "E:\\#Unity\\RotateObjectAndroid\\Android Project v3\\AndroidWithUnity\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v21\\values-v21.xml",
             "map": [
-                {
-                    "source": "E:\\#Unity\\RotateObjectAndroid\\Android Project v2\\AndroidWithUnity\\src\\main\\res\\values-v21\\styles.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "0",
-                        "startOffsets": "53",
-                        "endLines": "3",
-                        "endColumns": "8",
-                        "endOffsets": "153"
-                    },
-                    "to": {
-                        "startLines": "225",
-                        "startColumns": "4",
-                        "startOffsets": "16913",
-                        "endLines": "226",
-                        "endColumns": "8",
-                        "endOffsets": "17012"
-                    }
-                },
                 {
                     "source": "C:\\Users\\Klemen\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\ebf40cd97ab6413ffe428ebd076f4c30\\res\\values-v21\\values-v21.xml",
                     "from": {
@@ -39,6 +20,25 @@
                         "endLines": "2,3,4,5,265,266,267,268,271,276",
                         "endColumns": "103,63,66,63,115,125,125,127,12,12",
                         "endOffsets": "154,218,285,349,19477,19603,19729,19857,20029,20367"
+                    }
+                },
+                {
+                    "source": "E:\\#Unity\\RotateObjectAndroid\\Android Project v3\\AndroidWithUnity\\src\\main\\res\\values-v21\\styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "0",
+                        "startOffsets": "53",
+                        "endLines": "3",
+                        "endColumns": "8",
+                        "endOffsets": "153"
+                    },
+                    "to": {
+                        "startLines": "225",
+                        "startColumns": "4",
+                        "startOffsets": "16913",
+                        "endLines": "226",
+                        "endColumns": "8",
+                        "endOffsets": "17012"
                     }
                 },
                 {

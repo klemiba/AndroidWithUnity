@@ -45,6 +45,8 @@
             </intent-filter>
 
         </activity>
+
+
         <activity
             android:name="com.LTFE.AndroidWithUnity.UnityPlayerActivity"
             android:configChanges="mcc|mnc|locale|touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize|fontScale|layoutDirection|density"

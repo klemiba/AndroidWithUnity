@@ -2,103 +2,95 @@
 <instant-run
     abi="arm64-v8a,armeabi-v7a,armeabi"
     api-level="23"
-    build-mode="FULL"
+    build-mode="COLD"
     density="xxhdpi"
     format="10"
+    ir-eligibility="COMPATIBLE"
     plugin-version="3.3.2"
-    timestamp="1554709335109"
-    token="-1815687191446040076"
+    timestamp="1554981003770"
+    token="1877488563721800509"
     verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="0" />
+        duration="149" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="0" />
+        duration="33" />
     <task
         name="verifier"
-        duration="0" />
+        duration="7" />
 
     <artifact
-        location="E:\#Unity\RotateObjectAndroid\Android Project v2\AndroidWithUnity\build\intermediates\split-apk\debug\dep\dependencies.apk"
+        location="E:\#Unity\RotateObjectAndroid\Android Project v3\AndroidWithUnity\build\intermediates\split-apk\debug\slices\slice_1.apk"
         type="SPLIT" />
     <artifact
-        location="E:\#Unity\RotateObjectAndroid\Android Project v2\AndroidWithUnity\build\intermediates\split-apk\debug\slices\slice_3.apk"
-        type="SPLIT" />
-    <artifact
-        location="E:\#Unity\RotateObjectAndroid\Android Project v2\AndroidWithUnity\build\intermediates\split-apk\debug\slices\slice_2.apk"
-        type="SPLIT" />
-    <artifact
-        location="E:\#Unity\RotateObjectAndroid\Android Project v2\AndroidWithUnity\build\intermediates\split-apk\debug\slices\slice_6.apk"
-        type="SPLIT" />
-    <artifact
-        location="E:\#Unity\RotateObjectAndroid\Android Project v2\AndroidWithUnity\build\intermediates\split-apk\debug\slices\slice_5.apk"
-        type="SPLIT" />
-    <artifact
-        location="E:\#Unity\RotateObjectAndroid\Android Project v2\AndroidWithUnity\build\intermediates\split-apk\debug\slices\slice_9.apk"
-        type="SPLIT" />
-    <artifact
-        location="E:\#Unity\RotateObjectAndroid\Android Project v2\AndroidWithUnity\build\intermediates\split-apk\debug\slices\slice_0.apk"
-        type="SPLIT" />
-    <artifact
-        location="E:\#Unity\RotateObjectAndroid\Android Project v2\AndroidWithUnity\build\intermediates\split-apk\debug\slices\slice_4.apk"
-        type="SPLIT" />
-    <artifact
-        location="E:\#Unity\RotateObjectAndroid\Android Project v2\AndroidWithUnity\build\intermediates\split-apk\debug\slices\slice_1.apk"
-        type="SPLIT" />
-    <artifact
-        location="E:\#Unity\RotateObjectAndroid\Android Project v2\AndroidWithUnity\build\intermediates\split-apk\debug\slices\slice_8.apk"
-        type="SPLIT" />
-    <artifact
-        location="E:\#Unity\RotateObjectAndroid\Android Project v2\AndroidWithUnity\build\intermediates\split-apk\debug\slices\slice_7.apk"
-        type="SPLIT" />
-    <artifact
-        location="E:\#Unity\RotateObjectAndroid\Android Project v2\AndroidWithUnity\build\intermediates\instant-run-apk\debug\AndroidWithUnity-debug.apk"
+        location="E:\#Unity\RotateObjectAndroid\Android Project v3\AndroidWithUnity\build\intermediates\instant-run-apk\debug\AndroidWithUnity-debug.apk"
         type="SPLIT_MAIN" />
 
     <build
         build-mode="FULL"
-        timestamp="1554709335109"
+        timestamp="1554978075676"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
-            location="E:\#Unity\RotateObjectAndroid\Android Project v2\AndroidWithUnity\build\intermediates\split-apk\debug\dep\dependencies.apk"
+            location="E:\#Unity\RotateObjectAndroid\Android Project v3\AndroidWithUnity\build\intermediates\split-apk\debug\dep\dependencies.apk"
             type="SPLIT" />
         <artifact
-            location="E:\#Unity\RotateObjectAndroid\Android Project v2\AndroidWithUnity\build\intermediates\split-apk\debug\slices\slice_3.apk"
+            location="E:\#Unity\RotateObjectAndroid\Android Project v3\AndroidWithUnity\build\intermediates\split-apk\debug\slices\slice_5.apk"
             type="SPLIT" />
         <artifact
-            location="E:\#Unity\RotateObjectAndroid\Android Project v2\AndroidWithUnity\build\intermediates\split-apk\debug\slices\slice_2.apk"
+            location="E:\#Unity\RotateObjectAndroid\Android Project v3\AndroidWithUnity\build\intermediates\split-apk\debug\slices\slice_2.apk"
             type="SPLIT" />
         <artifact
-            location="E:\#Unity\RotateObjectAndroid\Android Project v2\AndroidWithUnity\build\intermediates\split-apk\debug\slices\slice_6.apk"
+            location="E:\#Unity\RotateObjectAndroid\Android Project v3\AndroidWithUnity\build\intermediates\split-apk\debug\slices\slice_4.apk"
             type="SPLIT" />
         <artifact
-            location="E:\#Unity\RotateObjectAndroid\Android Project v2\AndroidWithUnity\build\intermediates\split-apk\debug\slices\slice_5.apk"
+            location="E:\#Unity\RotateObjectAndroid\Android Project v3\AndroidWithUnity\build\intermediates\split-apk\debug\slices\slice_6.apk"
             type="SPLIT" />
         <artifact
-            location="E:\#Unity\RotateObjectAndroid\Android Project v2\AndroidWithUnity\build\intermediates\split-apk\debug\slices\slice_9.apk"
+            location="E:\#Unity\RotateObjectAndroid\Android Project v3\AndroidWithUnity\build\intermediates\split-apk\debug\slices\slice_0.apk"
             type="SPLIT" />
         <artifact
-            location="E:\#Unity\RotateObjectAndroid\Android Project v2\AndroidWithUnity\build\intermediates\split-apk\debug\slices\slice_0.apk"
+            location="E:\#Unity\RotateObjectAndroid\Android Project v3\AndroidWithUnity\build\intermediates\split-apk\debug\slices\slice_3.apk"
             type="SPLIT" />
         <artifact
-            location="E:\#Unity\RotateObjectAndroid\Android Project v2\AndroidWithUnity\build\intermediates\split-apk\debug\slices\slice_4.apk"
+            location="E:\#Unity\RotateObjectAndroid\Android Project v3\AndroidWithUnity\build\intermediates\split-apk\debug\slices\slice_1.apk"
             type="SPLIT" />
         <artifact
-            location="E:\#Unity\RotateObjectAndroid\Android Project v2\AndroidWithUnity\build\intermediates\split-apk\debug\slices\slice_1.apk"
+            location="E:\#Unity\RotateObjectAndroid\Android Project v3\AndroidWithUnity\build\intermediates\split-apk\debug\slices\slice_8.apk"
             type="SPLIT" />
         <artifact
-            location="E:\#Unity\RotateObjectAndroid\Android Project v2\AndroidWithUnity\build\intermediates\split-apk\debug\slices\slice_8.apk"
+            location="E:\#Unity\RotateObjectAndroid\Android Project v3\AndroidWithUnity\build\intermediates\split-apk\debug\slices\slice_9.apk"
             type="SPLIT" />
         <artifact
-            location="E:\#Unity\RotateObjectAndroid\Android Project v2\AndroidWithUnity\build\intermediates\split-apk\debug\slices\slice_7.apk"
+            location="E:\#Unity\RotateObjectAndroid\Android Project v3\AndroidWithUnity\build\intermediates\split-apk\debug\slices\slice_7.apk"
             type="SPLIT" />
         <artifact
-            location="E:\#Unity\RotateObjectAndroid\Android Project v2\AndroidWithUnity\build\intermediates\instant-run-apk\debug\AndroidWithUnity-debug.apk"
+            location="E:\#Unity\RotateObjectAndroid\Android Project v3\AndroidWithUnity\build\intermediates\instant-run-apk\debug\AndroidWithUnity-debug.apk"
+            type="SPLIT_MAIN" />
+    </build>
+    <build
+        build-mode="COLD"
+        ir-eligibility="COMPATIBLE"
+        timestamp="1554980908543"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="E:\#Unity\RotateObjectAndroid\Android Project v3\AndroidWithUnity\build\intermediates\instant-run-apk\debug\AndroidWithUnity-debug.apk"
+            type="SPLIT_MAIN" />
+    </build>
+    <build
+        build-mode="COLD"
+        ir-eligibility="COMPATIBLE"
+        timestamp="1554981003770"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="E:\#Unity\RotateObjectAndroid\Android Project v3\AndroidWithUnity\build\intermediates\split-apk\debug\slices\slice_1.apk"
+            type="SPLIT" />
+        <artifact
+            location="E:\#Unity\RotateObjectAndroid\Android Project v3\AndroidWithUnity\build\intermediates\instant-run-apk\debug\AndroidWithUnity-debug.apk"
             type="SPLIT_MAIN" />
     </build>
 
