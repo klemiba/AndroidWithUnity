@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\#Unity\\RotateObjectAndroid\\Android Project v3\\AndroidWithUnity\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-large-v4\\values-large-v4.xml",
+            "outputFile": "E:\\UnityProject\\androidunity-sandbox\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-large-v4\\values-large-v4.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Klemen\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\453aefa0960666328c1673c70166c216\\res\\values-large-v4\\values-large-v4.xml",
+                    "source": "C:\\Users\\kleme\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\41e2a828d517e3d83874c92a59b2a2db\\res\\values-large-v4\\values-large-v4.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10",
                         "startColumns": "4,4,4,4,4,4,4,4,4",

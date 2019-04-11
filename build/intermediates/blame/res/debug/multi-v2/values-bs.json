@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\#Unity\\RotateObjectAndroid\\Android Project v3\\AndroidWithUnity\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-bs\\values-bs.xml",
+            "outputFile": "E:\\UnityProject\\androidunity-sandbox\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-bs\\values-bs.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Klemen\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\453aefa0960666328c1673c70166c216\\res\\values-bs\\values-bs.xml",
+                    "source": "C:\\Users\\kleme\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\41e2a828d517e3d83874c92a59b2a2db\\res\\values-bs\\values-bs.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Klemen\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\ebf40cd97ab6413ffe428ebd076f4c30\\res\\values-bs\\values-bs.xml",
+                    "source": "C:\\Users\\kleme\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\135934e9ad6c8690a16892d18e8f3daf\\res\\values-bs\\values-bs.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

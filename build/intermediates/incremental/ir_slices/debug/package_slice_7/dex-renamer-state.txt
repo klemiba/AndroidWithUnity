@@ -1,4 +1,4 @@
-#Thu Apr 11 12:21:19 CEST 2019
-base.0=E\:\\\#Unity\\RotateObjectAndroid\\Android Project v3\\AndroidWithUnity\\build\\intermediates\\transforms\\dexMerger\\debug\\7
+#Thu Apr 11 23:38:07 CEST 2019
+base.0=E\:\\UnityProject\\androidunity-sandbox\\build\\intermediates\\transforms\\dexMerger\\debug\\7
 path.0=classes.dex
 renamed.0=classes.dex
