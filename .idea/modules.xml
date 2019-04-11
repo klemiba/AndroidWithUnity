@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/AndroidWithUnity.iml" filepath="$PROJECT_DIR$/AndroidWithUnity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/androidunity-sandbox.iml" filepath="$PROJECT_DIR$/androidunity-sandbox.iml" />
     </modules>
   </component>
 </project>

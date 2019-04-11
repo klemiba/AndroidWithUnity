@@ -32,6 +32,7 @@ public class UnityPlayerActivity extends AppCompatActivity
     // Setup activity layout
     @Override protected void onCreate(Bundle savedInstanceState)
     {
+        //git test
         requestWindowFeature(Window.FEATURE_NO_TITLE);
         super.onCreate(savedInstanceState);
 
